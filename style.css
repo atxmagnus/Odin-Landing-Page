@@ -110,6 +110,9 @@ button {
     border: 3px var(--blue) solid;
 }
 
+.card p{
+    text-align: center;
+}
 .quote-container {
     display: flex;
     flex-direction: column;
@@ -127,6 +130,7 @@ button {
 }
 
 #author {
+    font-weight: bold;
     align-self: flex-end;
 }
 
